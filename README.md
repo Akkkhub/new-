@@ -1,2 +1,2 @@
 # new-
-This is my first git reposoitory.
+This is my first git repository.
